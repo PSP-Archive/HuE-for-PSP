@@ -5,11 +5,19 @@
 ﻿          HuE for PSP 0.70 by E (T.Kawamorita)
 ## Screenshot
 
-![Game list](Castlevania : Rondo Of Blood.png)
+![Game list](doc/CROB.PNG)
 
-![Game list](Castlevania : Rondo of Blood1.png)
+![Game list](doc/CROB1.PNG)
 
-![Game list](Castlevania : Rondo of Blood2.png)
+![Game list](doc/CROB2.PNG)
+- [Castlevania : Rondo of Blood English Patch](https://mega.nz/file/Pf5gECCR#2QPcqY7t7do7h9PNjkDO9zaSzDyHpbP-K9SpayMDFjA)
+
+### Play PC Engine CD ROM [HuE for PSP]
+
+- Put the ROM in the Memory Stick (Castlevania Dracula X - Rondo of Blood in English Patch, the CD ROM is in copying it to ms0:/PSP/GAME/HuE/Roms/Castlevania Dracula X - Rondo of Blood in English Patch).
+
+A file explorer will appear directly, at this point you have to look for the <B>TurboGrafx CD Super System Card (U) (v3.0) .pce</B> BIOS , select it and give O. Once the bios is executed, you will see that you get a error toc error or similar and we will be in the "boot" screen, to enter the emulator menu in HuE you have to press <B> L + R + SELECT </B> at the same time .
+Go to the emulator menu, there you have to go down to cdrom select , and you will have to look for the TOC file , where you have all the loom of the mp3 and renamed isos (by default in the download put it in: PSP/GAME/HuE/Roms/Castlevania Dracula X - Rondo of Blood in English Patch). Hit RESET in the menu, and <B> START (RUN)</B> on the screen where it asks you to hit RUN.
 
 ## Change Log
 
