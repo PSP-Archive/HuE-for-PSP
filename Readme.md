@@ -2,7 +2,8 @@
 
 
 
-﻿          HuE for PSP 0.70 by E (T.Kawamorita)
+﻿          HuE for PSP 0.70 by E (T.Kawamorita) - PC Engine/TurboGrafx-16, PC Engine CD/TurboGrafx-CD/SuperGrafx Emulators.
+
 ## Screenshot
 
 ![Game list](doc/CROB.PNG)
@@ -10,7 +11,7 @@
 ![Game list](doc/CROB1.PNG)
 
 ![Game list](doc/CROB2.PNG)
-- [Castlevania : Rondo of Blood English Patch](https://mega.nz/file/Pf5gECCR#2QPcqY7t7do7h9PNjkDO9zaSzDyHpbP-K9SpayMDFjA)
+[Castlevania : Rondo of Blood English Patch](https://mega.nz/file/Pf5gECCR#2QPcqY7t7do7h9PNjkDO9zaSzDyHpbP-K9SpayMDFjA)
 
 ### Play PC Engine CD ROM [HuE for PSP]
 
