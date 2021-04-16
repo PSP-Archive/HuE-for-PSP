@@ -2,7 +2,6 @@
 
 <I><b>HuE for PSP 0.70 by E (T.Kawamorita)</b> - PC Engine/TurboGrafx-16, PC Engine CD/TurboGrafx-CD/SuperGrafx Emulators.</I>
 
-## Screenshot
 
 ![Game list](doc/CROB.PNG)
 
